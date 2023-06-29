@@ -270,6 +270,8 @@ Epoch 10/10
 64/64 [==============================] - 0s 47us/sample - loss: 0.5889 - acc: 0.8125 - val_loss: 0.6039 - val_acc: 0.8125
 ```
 
+![image](https://github.com/jbbowman/TensorFlow/assets/104173135/ffcb8a43-46bb-45fc-944c-fce0545323b8)
+
 The printed output from a sample run indicates that the model is trained for 10 epochs. In each epoch, the model's loss decreases, and accuracy increases, both on the training data and the validation data. This indicates that the model is learning to predict whether a loan will default based on the input features. The final accuracy on the validation data is 81.25%, which suggests that the model is reasonably effective at making accurate predictions.
 
 ## Conclusion
