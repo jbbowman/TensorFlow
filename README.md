@@ -272,5 +272,5 @@ Epoch 10/10
 
 The printed output from a sample run indicates that the model is trained for 10 epochs. In each epoch, the model's loss decreases, and accuracy increases, both on the training data and the validation data. This indicates that the model is learning to predict whether a loan will default based on the input features. The final accuracy on the validation data is 81.25%, which suggests that the model is reasonably effective at making accurate predictions.
 
-Conclusion
+## Conclusion
 This paper has demonstrated how to implement a TensorFlow model for binary classification using an advanced neural network with multiple neurons (perceptrons). The program combines customer data generation with model training and evaluation, providing a complete implementation of a neural network.
